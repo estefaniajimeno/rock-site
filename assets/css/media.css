@@ -1,0 +1,28 @@
+
+@media (min-width:535px) and (max-width:824px){
+[class*="col-"]{
+	width: 100%
+}
+[class*="onePage"]{
+	width:250%; 
+	height:250%;
+}
+[class*="twoPage"]{
+	width:250%; 
+	height:250%;
+}
+ [class*=visible]{
+ 	display: none;
+ }
+
+ [class*=oculto]{
+ 	display: inline-block;
+ }
+
+}
+
+
+
+
+
+
